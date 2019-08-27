@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hello world
 
 yeah
+=======
+hello wolrd
+
+toto
+>>>>>>> branch 'master' of https://github.com/qq315662964/test1.git
