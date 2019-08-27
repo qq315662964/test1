@@ -3,10 +3,7 @@ hello world
 三重
 hello world
 
-<<<<<<< HEAD
 四重oh
-=======
 四重
 
 sun
->>>>>>> branch 'master' of https://github.com/qq315662964/test1.git
